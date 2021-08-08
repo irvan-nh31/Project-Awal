@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">185411143FirmansyahIrvan</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="pilihanjabatan">
+        <item >--Pilih--</item>
+        <item   >Direktur Utama</item>
+        <item   >Supervisor</item>
+        <item   >Staff Keuangan</item>
+        <item   >Staff Software</item>
+        <item   >Staff Marketing</item>
+        <item   >Staff Teknisi</item>
+        <item   >Staff Project</item>
+    </string-array>
+
+    <string-array name="pilihanstatus">
+        <item >--Pilih--</item>
+        <item   >Pegawai Tetap</item>
+        <item   >Pegawai Kontrak</item>
+    </string-array>
+</resources>
